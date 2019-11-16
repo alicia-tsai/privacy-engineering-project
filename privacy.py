@@ -63,6 +63,7 @@ def get_entropy_l_diversity(data, quasi_ids, sen_attr):
     result = result.sort_values(by="l_diverse")
     display(result)
 
+
 # t-closeness
 def order_ground_dist(group, q, sens):
     p = group.groupby([sens]).count().iloc[:, 0:1] / len(group)
@@ -88,3 +89,14 @@ def get_t_closeness(data, quasi, sens, ground_dist):
     result.columns = ["t_closeness"]
     result = result.sort_values(by="t_closeness")
     display(result)
+
+
+# delta-presence
+def get_delta_presence(P, T, quasi_ids):
+    P_result = P.groupby(quasi_ids).count().iloc[:, 0:1]
+    T_result = T.groupby(quasi_ids).count().iloc[:, 0:1]
+    join_result = P_result.join(T_result)
+    join_result = join_result.fillna(0)
+    join_result.columns = ["count_P", "count_T"]
+    join_result['delta'] = join_result["count_T"] / join_result["count_P"]
+    display(join_result)
