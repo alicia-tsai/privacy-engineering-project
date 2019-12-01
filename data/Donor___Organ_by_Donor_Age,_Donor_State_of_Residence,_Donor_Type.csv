@@ -1,0 +1,1334 @@
+Donor Age,Donor State of Residence,Donor Type,All Donors,Kidney,Liver,Heart,Pancreas,Lung,Intestine
+All Ages,All Donor States of Residence,All Donor Types,387089,360646,187160,78109,46574,39849,3430
+,,Deceased Donor,222013,203365,179950,78066,46502,39371,3386
+,,Living Donor,165076,157281,7210,43,72,478,44
+,Alabama,All Donor Types,6338,6014,3111,1193,603,572,36
+,,Deceased Donor,3750,3452,3091,1191,602,569,36
+,,Living Donor,2588,2562,20,2,1,3,0
+,Alaska,All Donor Types,1008,979,499,210,150,129,1
+,,Deceased Donor,622,604,490,209,150,128,1
+,,Living Donor,386,375,9,1,0,1,0
+,Arizona,All Donor Types,7007,6666,3242,1341,687,754,45
+,,Deceased Donor,3771,3593,3106,1339,687,729,45
+,,Living Donor,3236,3073,136,2,0,25,0
+,Arkansas,All Donor Types,3121,2938,1766,811,419,372,56
+,,Deceased Donor,2056,1905,1741,811,418,366,56
+,,Living Donor,1065,1033,25,0,1,6,0
+,California,All Donor Types,39248,36774,18905,8565,4222,4479,158
+,,Deceased Donor,22206,20749,18029,8556,4221,4350,156
+,,Living Donor,17042,16025,876,9,1,129,2
+,Colorado,All Donor Types,5736,5354,2596,1210,756,494,42
+,,Deceased Donor,2937,2753,2404,1210,756,489,41
+,,Living Donor,2799,2601,192,0,0,5,1
+,Connecticut,All Donor Types,4061,3821,1664,725,354,273,21
+,,Deceased Donor,1966,1846,1546,725,353,271,21
+,,Living Donor,2095,1975,118,0,1,2,0
+,Delaware,All Donor Types,1499,1386,857,328,204,199,13
+,,Deceased Donor,1027,940,831,328,203,199,13
+,,Living Donor,472,446,26,0,1,0,0
+,District of Columbia,All Donor Types,1034,955,475,185,156,112,8
+,,Deceased Donor,560,502,455,185,156,111,8
+,,Living Donor,474,453,20,0,0,1,0
+,Florida,All Donor Types,20774,19064,11974,4588,2682,2408,388
+,,Deceased Donor,14567,13009,11843,4587,2680,2389,388
+,,Living Donor,6207,6055,131,1,2,19,0
+,Georgia,All Donor Types,10557,9581,5562,2367,981,1172,117
+,,Deceased Donor,6486,5610,5469,2366,979,1168,117
+,,Living Donor,4071,3971,93,1,2,4,0
+,Hawaii,All Donor Types,1303,1256,594,69,109,32,1
+,,Deceased Donor,791,762,576,69,109,32,1
+,,Living Donor,512,494,18,0,0,0,0
+,Idaho,All Donor Types,1676,1601,779,374,201,148,15
+,,Deceased Donor,930,883,753,372,201,148,15
+,,Living Donor,746,718,26,2,0,0,0
+,,,,,,,,,
+,Illinois,All Donor Types,17991,16603,7906,3052,2659,1852,159
+,,Deceased Donor,9630,8705,7468,3052,2651,1846,139
+,,Living Donor,8361,7898,438,0,8,6,20
+,Indiana,All Donor Types,7895,7467,4128,1950,1218,1010,204
+,,Deceased Donor,4736,4386,4062,1950,1217,1002,201
+,,Living Donor,3159,3081,66,0,1,8,3
+,Iowa,All Donor Types,3825,3666,1674,719,561,353,39
+,,Deceased Donor,1949,1847,1623,719,559,348,38
+,,Living Donor,1876,1819,51,0,2,5,1
+,Kansas,All Donor Types,3656,3431,2141,937,659,501,51
+,,Deceased Donor,2568,2378,2111,937,658,496,51
+,,Living Donor,1088,1053,30,0,1,5,0
+,Kentucky,All Donor Types,4756,4521,2486,1091,701,542,47
+,,Deceased Donor,2927,2734,2446,1091,699,541,47
+,,Living Donor,1829,1787,40,0,2,1,0
+,Louisiana,All Donor Types,5950,5436,3652,1498,984,822,77
+,,Deceased Donor,4044,3573,3613,1498,984,820,75
+,,Living Donor,1906,1863,39,0,0,2,2
+,Maine,All Donor Types,1770,1649,783,336,208,136,17
+,,Deceased Donor,934,888,718,336,207,126,17
+,,Living Donor,836,761,65,0,1,10,0
+,Maryland,All Donor Types,8941,8304,4035,1436,1162,1007,54
+,,Deceased Donor,4570,4184,3787,1436,1161,1004,54
+,,Living Donor,4371,4120,248,0,1,3,0
+,Massachusetts,All Donor Types,7947,7368,3063,1242,615,536,34
+,,Deceased Donor,3717,3476,2761,1242,614,502,33
+,,Living Donor,4230,3892,302,0,1,34,1
+,Michigan,All Donor Types,14393,13598,6036,2549,1425,1555,154
+,,Deceased Donor,7804,7232,5822,2548,1425,1548,153
+,,Living Donor,6589,6366,214,1,0,7,1
+,Minnesota,All Donor Types,8474,8017,3091,1307,1403,697,90
+,,Deceased Donor,3396,3185,2866,1304,1383,686,86
+,,Living Donor,5078,4832,225,3,20,11,4
+,Mississippi,All Donor Types,3136,2933,1726,721,395,316,63
+,,Deceased Donor,2122,1955,1694,720,395,313,63
+,,Living Donor,1014,978,32,1,0,3,0
+,Missouri,All Donor Types,7950,7236,4631,1863,1127,1218,102
+,,Deceased Donor,5445,4797,4569,1863,1127,1214,102
+,,Living Donor,2505,2439,62,0,0,4,0
+,Montana,All Donor Types,1236,1178,577,295,171,104,11
+,,Deceased Donor,676,643,554,294,171,103,11
+,,,,,,,,,
+,,Living Donor,560,535,23,1,0,1,0
+,Nebraska,All Donor Types,2312,2183,1139,443,422,231,35
+,,Deceased Donor,1283,1200,1099,443,422,225,35
+,,Living Donor,1029,983,40,0,0,6,0
+,Nevada,All Donor Types,2972,2769,1687,706,310,344,21
+,,Deceased Donor,1992,1836,1648,706,310,336,21
+,,Living Donor,980,933,39,0,0,8,0
+,New Hampshire,All Donor Types,1687,1575,664,270,157,140,3
+,,Deceased Donor,793,745,605,270,157,135,3
+,,Living Donor,894,830,59,0,0,5,0
+,New Jersey,All Donor Types,11172,10535,4616,1803,1096,784,43
+,,Deceased Donor,5640,5231,4392,1803,1096,780,43
+,,Living Donor,5532,5304,224,0,0,4,0
+,New Mexico,All Donor Types,2328,2199,1184,543,201,194,19
+,,Deceased Donor,1459,1363,1152,543,201,194,18
+,,Living Donor,869,836,32,0,0,0,1
+,New York,All Donor Types,22604,20099,9863,3344,1763,1127,140
+,,Deceased Donor,11042,9458,8959,3344,1761,1111,140
+,,Living Donor,11562,10641,904,0,2,16,0
+,North Carolina,All Donor Types,10187,9526,5121,2438,1520,1328,127
+,,Deceased Donor,6264,5749,4985,2437,1520,1319,127
+,,Living Donor,3923,3777,136,1,0,9,0
+,North Dakota,All Donor Types,1029,985,399,171,182,76,14
+,,Deceased Donor,464,440,380,171,181,76,13
+,,Living Donor,565,545,19,0,1,0,1
+,Ohio,All Donor Types,15946,15033,7422,3000,2377,1675,137
+,,Deceased Donor,8889,8211,7199,2999,2374,1666,137
+,,Living Donor,7057,6822,223,1,3,9,0
+,Oklahoma,All Donor Types,4334,4076,2430,1094,392,454,31
+,,Deceased Donor,3061,2836,2400,1094,392,451,31
+,,Living Donor,1273,1240,30,0,0,3,0
+,Oregon,All Donor Types,3813,3681,1709,765,414,272,10
+,,Deceased Donor,2031,1953,1667,761,414,264,10
+,,Living Donor,1782,1728,42,4,0,8,0
+,Pennsylvania,All Donor Types,19932,18342,11001,4008,2693,2271,178
+,,Deceased Donor,12791,11770,10447,4008,2689,2259,177
+,,Living Donor,7141,6572,554,0,4,12,1
+,Puerto Rico,All Donor Types,2737,2451,1567,355,245,246,29
+,,Deceased Donor,1879,1635,1526,355,244,245,29
+,,Living Donor,858,816,41,0,1,1,0
+,Rhode Island,All Donor Types,1229,1154,393,178,102,62,4
+,,,,,,,,,
+,,Deceased Donor,502,468,356,178,102,58,4
+,,Living Donor,727,686,37,0,0,4,0
+,South Carolina,All Donor Types,5383,5086,3210,1413,760,736,51
+,,Deceased Donor,3659,3404,3172,1413,760,732,51
+,,Living Donor,1724,1682,38,0,0,4,0
+,South Dakota,All Donor Types,1111,1066,505,202,233,124,16
+,,Deceased Donor,557,530,487,202,232,124,16
+,,Living Donor,554,536,18,0,1,0,0
+,State unassigned,All Donor Types,7828,7280,2596,1279,640,477,26
+,,Deceased Donor,3170,2945,2310,1273,636,449,25
+,,Living Donor,4658,4335,286,6,4,28,1
+,Tennessee,All Donor Types,8081,7535,4480,2090,1156,974,129
+,,Deceased Donor,5244,4765,4417,2090,1155,970,129
+,,Living Donor,2837,2770,63,0,1,4,0
+,Texas,All Donor Types,28137,26064,14257,6831,2616,3483,209
+,,Deceased Donor,17342,15560,13995,6829,2615,3458,207
+,,Living Donor,10795,10504,262,2,1,25,2
+,Utah,All Donor Types,3496,3313,1426,703,375,259,13
+,,Deceased Donor,1727,1613,1363,702,375,254,13
+,,Living Donor,1769,1700,63,1,0,5,0
+,Vermont,All Donor Types,798,746,350,138,85,62,3
+,,Deceased Donor,398,381,316,138,85,61,3
+,,Living Donor,400,365,34,0,0,1,0
+,Virginia,All Donor Types,10007,9398,4343,1762,916,922,78
+,,Deceased Donor,4974,4664,4058,1761,915,912,75
+,,Living Donor,5033,4734,285,1,1,10,3
+,Washington,All Donor Types,6425,6193,2805,1217,723,602,26
+,,Deceased Donor,3480,3325,2738,1214,723,595,26
+,,Living Donor,2945,2868,67,3,0,7,0
+,West Virginia,All Donor Types,2429,2228,1445,495,377,271,42
+,,Deceased Donor,1603,1483,1367,495,375,269,42
+,,Living Donor,826,745,78,0,2,2,0
+,Wisconsin,All Donor Types,9144,8686,4235,1715,1895,867,42
+,,Deceased Donor,5163,4813,4138,1715,1890,857,42
+,,Living Donor,3981,3873,97,0,5,10,0
+,Wyoming,All Donor Types,686,647,360,184,112,75,1
+,,Deceased Donor,419,396,346,184,112,73,1
+,,Living Donor,267,251,14,0,0,2,0
+< 1 Year,All Donor States of Residence,All Donor Types,3386,1856,2339,2337,426,156,682
+,,Deceased Donor,3384,1855,2339,2336,426,156,682
+,,Living Donor,2,1,0,1,0,0,0
+,,,,,,,,,
+,Alabama,All Donor Types,60,32,34,40,6,1,7
+,,Deceased Donor,60,32,34,40,6,1,7
+,Alaska,All Donor Types,8,7,6,3,1,0,1
+,,Deceased Donor,8,7,6,3,1,0,1
+,Arizona,All Donor Types,52,39,32,33,3,4,4
+,,Deceased Donor,52,39,32,33,3,4,4
+,Arkansas,All Donor Types,42,20,31,32,10,0,12
+,,Deceased Donor,42,20,31,32,10,0,12
+,California,All Donor Types,334,202,216,241,19,12,34
+,,Deceased Donor,334,202,216,241,19,12,34
+,Colorado,All Donor Types,51,23,31,37,6,0,10
+,,Deceased Donor,51,23,31,37,6,0,10
+,Connecticut,All Donor Types,23,18,18,16,2,1,3
+,,Deceased Donor,23,18,18,16,2,1,3
+,Delaware,All Donor Types,8,5,7,5,0,0,1
+,,Deceased Donor,8,5,7,5,0,0,1
+,District of Columbia,All Donor Types,8,6,8,6,1,1,1
+,,Deceased Donor,8,6,8,6,1,1,1
+,Florida,All Donor Types,224,98,170,149,54,12,67
+,,Deceased Donor,224,98,170,149,54,12,67
+,Georgia,All Donor Types,110,48,77,92,18,4,31
+,,Deceased Donor,110,48,77,92,18,4,31
+,Hawaii,All Donor Types,7,4,4,3,1,0,1
+,,Deceased Donor,7,4,4,3,1,0,1
+,Idaho,All Donor Types,20,12,13,13,3,1,5
+,,Deceased Donor,20,12,13,13,3,1,5
+,Illinois,All Donor Types,170,91,116,104,14,10,29
+,,Deceased Donor,170,91,116,104,14,10,29
+,Indiana,All Donor Types,75,41,54,58,17,4,20
+,,Deceased Donor,75,41,54,58,17,4,20
+,Iowa,All Donor Types,30,17,23,22,6,1,10
+,,Deceased Donor,30,17,23,22,6,1,10
+,Kansas,All Donor Types,53,31,34,35,7,1,15
+,,Deceased Donor,53,31,34,35,7,1,15
+,Kentucky,All Donor Types,50,27,45,40,8,0,14
+,,Deceased Donor,50,27,45,40,8,0,14
+,Louisiana,All Donor Types,54,23,45,40,12,3,17
+,,Deceased Donor,54,23,45,40,12,3,17
+,Maine,All Donor Types,8,6,7,5,7,1,7
+,,Deceased Donor,8,6,7,5,7,1,7
+,Maryland,All Donor Types,54,40,40,33,10,3,11
+,,,,,,,,,
+,,Deceased Donor,54,40,40,33,10,3,11
+,Massachusetts,All Donor Types,32,17,21,20,2,2,9
+,,Deceased Donor,32,17,21,20,2,2,9
+,Michigan,All Donor Types,109,59,72,79,16,4,29
+,,Deceased Donor,109,59,72,79,16,4,29
+,Minnesota,All Donor Types,59,26,41,42,7,4,10
+,,Deceased Donor,59,26,41,42,7,4,10
+,Mississippi,All Donor Types,43,22,32,26,10,3,13
+,,Deceased Donor,43,22,32,26,10,3,13
+,Missouri,All Donor Types,80,39,51,53,12,6,20
+,,Deceased Donor,80,39,51,53,12,6,20
+,Montana,All Donor Types,14,7,11,12,2,0,4
+,,Deceased Donor,14,7,11,12,2,0,4
+,Nebraska,All Donor Types,24,8,19,13,4,2,7
+,,Deceased Donor,24,8,19,13,4,2,7
+,Nevada,All Donor Types,35,31,21,24,2,0,4
+,,Deceased Donor,35,31,21,24,2,0,4
+,New Hampshire,All Donor Types,5,3,5,2,0,1,0
+,,Deceased Donor,5,3,5,2,0,1,0
+,New Jersey,All Donor Types,69,44,43,47,6,5,11
+,,Deceased Donor,69,44,43,47,6,5,11
+,New Mexico,All Donor Types,26,13,21,19,3,1,3
+,,Deceased Donor,26,13,21,19,3,1,3
+,New York,All Donor Types,137,71,95,96,19,7,34
+,,Deceased Donor,137,71,95,96,19,7,34
+,North Carolina,All Donor Types,125,61,94,87,14,7,33
+,,Deceased Donor,125,61,94,87,14,7,33
+,North Dakota,All Donor Types,5,3,3,5,0,0,0
+,,Deceased Donor,5,3,3,5,0,0,0
+,Ohio,All Donor Types,111,58,76,79,14,8,21
+,,Deceased Donor,110,58,76,78,14,8,21
+,,Living Donor,1,0,0,1,0,0,0
+,Oklahoma,All Donor Types,43,29,28,29,3,1,7
+,,Deceased Donor,42,28,28,29,3,1,7
+,,Living Donor,1,1,0,0,0,0,0
+,Oregon,All Donor Types,31,16,18,22,2,1,3
+,,Deceased Donor,31,16,18,22,2,1,3
+,Pennsylvania,All Donor Types,155,92,100,93,15,11,25
+,,Deceased Donor,155,92,100,93,15,11,25
+,Puerto Rico,All Donor Types,9,7,7,6,0,0,0
+,,Deceased Donor,9,7,7,6,0,0,0
+,,,,,,,,,
+,Rhode Island,All Donor Types,1,0,0,1,0,0,0
+,,Deceased Donor,1,0,0,1,0,0,0
+,South Carolina,All Donor Types,34,20,28,28,11,1,16
+,,Deceased Donor,34,20,28,28,11,1,16
+,South Dakota,All Donor Types,5,2,1,4,0,0,0
+,,Deceased Donor,5,2,1,4,0,0,0
+,State unassigned,All Donor Types,42,17,27,26,1,0,3
+,,Deceased Donor,42,17,27,26,1,0,3
+,Tennessee,All Donor Types,102,57,75,80,16,6,26
+,,Deceased Donor,102,57,75,80,16,6,26
+,Texas,All Donor Types,343,187,242,228,29,15,57
+,,Deceased Donor,343,187,242,228,29,15,57
+,Utah,All Donor Types,56,45,29,35,3,1,5
+,,Deceased Donor,56,45,29,35,3,1,5
+,Vermont,All Donor Types,4,2,4,1,1,0,0
+,,Deceased Donor,4,2,4,1,1,0,0
+,Virginia,All Donor Types,81,48,56,59,10,6,15
+,,Deceased Donor,81,48,56,59,10,6,15
+,Washington,All Donor Types,63,36,37,40,5,1,8
+,,Deceased Donor,63,36,37,40,5,1,8
+,West Virginia,All Donor Types,17,11,16,13,6,3,7
+,,Deceased Donor,17,11,16,13,6,3,7
+,Wisconsin,All Donor Types,75,31,51,53,8,1,12
+,,Deceased Donor,75,31,51,53,8,1,12
+,Wyoming,All Donor Types,10,4,4,8,0,0,0
+,,Deceased Donor,10,4,4,8,0,0,0
+1-5 Years,All Donor States of Residence,All Donor Types,6694,6183,5363,2956,541,301,789
+,,Deceased Donor,6692,6183,5362,2955,541,301,789
+,,Living Donor,2,0,1,1,0,0,0
+,Alabama,All Donor Types,106,98,88,45,6,4,12
+,,Deceased Donor,106,98,88,45,6,4,12
+,Alaska,All Donor Types,27,25,20,7,1,0,0
+,,Deceased Donor,27,25,20,7,1,0,0
+,Arizona,All Donor Types,141,133,117,71,5,3,14
+,,Deceased Donor,141,133,117,71,5,3,14
+,Arkansas,All Donor Types,59,56,45,27,6,3,6
+,,Deceased Donor,59,56,45,27,6,3,6
+,California,All Donor Types,639,575,520,317,21,24,45
+,,Deceased Donor,639,575,520,317,21,24,45
+,Colorado,All Donor Types,75,64,57,32,3,2,9
+,,Deceased Donor,75,64,57,32,3,2,9
+,,,,,,,,,
+,Connecticut,All Donor Types,43,41,32,15,3,4,7
+,,Deceased Donor,43,41,32,15,3,4,7
+,Delaware,All Donor Types,19,19,15,7,0,1,1
+,,Deceased Donor,19,19,15,7,0,1,1
+,District of Columbia,All Donor Types,7,7,5,3,1,0,0
+,,Deceased Donor,7,7,5,3,1,0,0
+,Florida,All Donor Types,487,452,411,195,89,16,86
+,,Deceased Donor,487,452,411,195,89,16,86
+,Georgia,All Donor Types,224,212,183,116,19,11,31
+,,Deceased Donor,224,212,183,116,19,11,31
+,Hawaii,All Donor Types,15,14,10,0,0,0,0
+,,Deceased Donor,15,14,10,0,0,0,0
+,Idaho,All Donor Types,59,57,46,26,0,3,1
+,,Deceased Donor,59,57,46,26,0,3,1
+,Illinois,All Donor Types,290,261,232,119,17,20,39
+,,Deceased Donor,290,261,232,119,17,20,39
+,Indiana,All Donor Types,159,151,133,68,27,12,24
+,,Deceased Donor,159,151,133,68,27,12,24
+,Iowa,All Donor Types,77,73,63,37,7,1,16
+,,Deceased Donor,77,73,63,37,7,1,16
+,Kansas,All Donor Types,97,85,76,45,8,4,15
+,,Deceased Donor,97,85,76,45,8,4,15
+,Kentucky,All Donor Types,96,88,76,41,13,2,17
+,,Deceased Donor,96,88,76,41,13,2,17
+,Louisiana,All Donor Types,136,124,119,66,20,7,20
+,,Deceased Donor,136,124,119,66,20,7,20
+,Maine,All Donor Types,19,18,17,13,1,0,2
+,,Deceased Donor,19,18,17,13,1,0,2
+,Maryland,All Donor Types,97,93,69,36,6,11,5
+,,Deceased Donor,97,93,69,36,6,11,5
+,Massachusetts,All Donor Types,54,51,41,20,3,3,5
+,,Deceased Donor,54,51,41,20,3,3,5
+,Michigan,All Donor Types,209,189,170,89,21,9,36
+,,Deceased Donor,209,189,170,89,21,9,36
+,Minnesota,All Donor Types,99,91,85,52,8,11,16
+,,Deceased Donor,99,91,85,52,8,11,16
+,Mississippi,All Donor Types,91,85,72,43,11,3,17
+,,Deceased Donor,91,85,72,43,11,3,17
+,Missouri,All Donor Types,157,137,134,83,19,14,25
+,,Deceased Donor,157,137,134,83,19,14,25
+,Montana,All Donor Types,22,20,20,14,2,0,3
+,,,,,,,,,
+,,Deceased Donor,22,20,20,14,2,0,3
+,Nebraska,All Donor Types,47,41,41,20,6,2,8
+,,Deceased Donor,47,41,41,20,6,2,8
+,Nevada,All Donor Types,57,54,49,28,1,1,4
+,,Deceased Donor,57,54,49,28,1,1,4
+,New Hampshire,All Donor Types,7,7,7,3,0,0,0
+,,Deceased Donor,7,7,7,3,0,0,0
+,New Jersey,All Donor Types,166,153,118,72,7,9,14
+,,Deceased Donor,166,153,118,72,7,9,14
+,New Mexico,All Donor Types,47,43,40,19,4,4,1
+,,Deceased Donor,47,43,40,19,4,4,1
+,New York,All Donor Types,274,251,203,111,29,19,32
+,,Deceased Donor,274,251,203,111,29,19,32
+,North Carolina,All Donor Types,193,178,158,75,22,9,38
+,,Deceased Donor,193,178,158,75,22,9,38
+,North Dakota,All Donor Types,20,19,16,6,2,0,2
+,,Deceased Donor,20,19,16,6,2,0,2
+,Ohio,All Donor Types,232,213,182,90,18,10,24
+,,Deceased Donor,232,213,182,90,18,10,24
+,Oklahoma,All Donor Types,118,113,90,56,4,2,11
+,,Deceased Donor,118,113,90,56,4,2,11
+,Oregon,All Donor Types,75,68,62,38,2,0,2
+,,Deceased Donor,75,68,62,38,2,0,2
+,Pennsylvania,All Donor Types,284,274,220,107,20,21,26
+,,Deceased Donor,283,274,219,107,20,21,26
+,,Living Donor,1,0,1,0,0,0,0
+,Puerto Rico,All Donor Types,33,33,24,4,2,0,4
+,,Deceased Donor,33,33,24,4,2,0,4
+,Rhode Island,All Donor Types,10,10,6,3,1,1,1
+,,Deceased Donor,10,10,6,3,1,1,1
+,South Carolina,All Donor Types,97,92,86,54,13,2,18
+,,Deceased Donor,97,92,86,54,13,2,18
+,South Dakota,All Donor Types,26,24,23,7,5,4,4
+,,Deceased Donor,26,24,23,7,5,4,4
+,State unassigned,All Donor Types,98,83,76,36,3,5,4
+,,Deceased Donor,97,83,76,35,3,5,4
+,,Living Donor,1,0,0,1,0,0,0
+,Tennessee,All Donor Types,179,166,153,95,30,6,37
+,,Deceased Donor,179,166,153,95,30,6,37
+,Texas,All Donor Types,729,686,573,351,28,22,69
+,,Deceased Donor,729,686,573,351,28,22,69
+,,,,,,,,,
+,Utah,All Donor Types,76,71,50,24,2,1,2
+,,Deceased Donor,76,71,50,24,2,1,2
+,Vermont,All Donor Types,7,7,6,4,1,0,1
+,,Deceased Donor,7,7,6,4,1,0,1
+,Virginia,All Donor Types,142,134,108,57,11,7,14
+,,Deceased Donor,142,134,108,57,11,7,14
+,Washington,All Donor Types,102,94,79,46,3,2,9
+,,Deceased Donor,102,94,79,46,3,2,9
+,West Virginia,All Donor Types,46,43,34,18,2,4,3
+,,Deceased Donor,46,43,34,18,2,4,3
+,Wisconsin,All Donor Types,111,94,91,39,8,2,9
+,,Deceased Donor,111,94,91,39,8,2,9
+,Wyoming,All Donor Types,14,13,12,6,0,0,0
+,,Deceased Donor,14,13,12,6,0,0,0
+6-10 Years,All Donor States of Residence,All Donor Types,4413,4306,3686,1709,933,502,326
+,,Deceased Donor,4407,4304,3682,1709,933,502,326
+,,Living Donor,6,2,4,0,0,0,0
+,Alabama,All Donor Types,83,81,71,28,8,7,6
+,,Deceased Donor,83,81,71,28,8,7,6
+,Alaska,All Donor Types,17,17,13,4,2,0,0
+,,Deceased Donor,17,17,13,4,2,0,0
+,Arizona,All Donor Types,83,80,73,26,10,5,8
+,,Deceased Donor,83,80,73,26,10,5,8
+,Arkansas,All Donor Types,43,42,35,21,9,5,3
+,,Deceased Donor,43,42,35,21,9,5,3
+,California,All Donor Types,405,390,352,175,77,51,20
+,,Deceased Donor,404,390,351,175,77,51,20
+,,Living Donor,1,0,1,0,0,0,0
+,Colorado,All Donor Types,51,49,39,21,13,1,3
+,,Deceased Donor,51,49,39,21,13,1,3
+,Connecticut,All Donor Types,39,38,29,7,7,8,4
+,,Deceased Donor,38,37,29,7,7,8,4
+,,Living Donor,1,1,0,0,0,0,0
+,Delaware,All Donor Types,17,17,12,2,3,2,0
+,,Deceased Donor,17,17,12,2,3,2,0
+,District of Columbia,All Donor Types,9,8,9,3,2,0,3
+,,Deceased Donor,9,8,9,3,2,0,3
+,Florida,All Donor Types,287,276,242,117,61,42,40
+,,Deceased Donor,286,275,242,117,61,42,40
+,,Living Donor,1,1,0,0,0,0,0
+,Georgia,All Donor Types,156,155,124,81,18,23,16
+,,,,,,,,,
+,,Deceased Donor,156,155,124,81,18,23,16
+,Hawaii,All Donor Types,16,15,12,0,0,0,0
+,,Deceased Donor,16,15,12,0,0,0,0
+,Idaho,All Donor Types,30,29,25,12,6,1,4
+,,Deceased Donor,30,29,25,12,6,1,4
+,Illinois,All Donor Types,177,174,151,63,56,25,9
+,,Deceased Donor,177,174,151,63,56,25,9
+,Indiana,All Donor Types,106,102,87,41,27,13,7
+,,Deceased Donor,106,102,87,41,27,13,7
+,Iowa,All Donor Types,48,48,33,16,14,5,1
+,,Deceased Donor,48,48,33,16,14,5,1
+,Kansas,All Donor Types,67,66,52,28,11,9,3
+,,Deceased Donor,67,66,52,28,11,9,3
+,Kentucky,All Donor Types,64,62,52,22,14,6,4
+,,Deceased Donor,64,62,52,22,14,6,4
+,Louisiana,All Donor Types,98,95,87,40,26,13,7
+,,Deceased Donor,98,95,87,40,26,13,7
+,Maine,All Donor Types,20,20,15,8,0,3,2
+,,Deceased Donor,20,20,15,8,0,3,2
+,Maryland,All Donor Types,63,61,50,22,20,10,2
+,,Deceased Donor,62,61,49,22,20,10,2
+,,Living Donor,1,0,1,0,0,0,0
+,Massachusetts,All Donor Types,39,39,33,15,7,3,4
+,,Deceased Donor,39,39,33,15,7,3,4
+,Michigan,All Donor Types,170,166,138,67,34,28,17
+,,Deceased Donor,170,166,138,67,34,28,17
+,Minnesota,All Donor Types,82,82,72,31,35,14,6
+,,Deceased Donor,82,82,72,31,35,14,6
+,Mississippi,All Donor Types,51,51,43,24,14,6,10
+,,Deceased Donor,51,51,43,24,14,6,10
+,Missouri,All Donor Types,100,97,88,39,14,17,11
+,,Deceased Donor,99,97,87,39,14,17,11
+,,Living Donor,1,0,1,0,0,0,0
+,Montana,All Donor Types,23,23,20,11,3,2,1
+,,Deceased Donor,23,23,20,11,3,2,1
+,Nebraska,All Donor Types,24,23,20,6,12,2,6
+,,Deceased Donor,24,23,20,6,12,2,6
+,Nevada,All Donor Types,32,31,27,14,5,0,5
+,,Deceased Donor,32,31,27,14,5,0,5
+,New Hampshire,All Donor Types,7,7,5,1,1,0,0
+,,Deceased Donor,7,7,5,1,1,0,0
+,,,,,,,,,
+,New Jersey,All Donor Types,97,92,71,30,20,8,4
+,,Deceased Donor,97,92,71,30,20,8,4
+,New Mexico,All Donor Types,32,31,31,13,2,2,2
+,,Deceased Donor,32,31,31,13,2,2,2
+,New York,All Donor Types,185,177,141,75,28,13,11
+,,Deceased Donor,184,177,140,75,28,13,11
+,,Living Donor,1,0,1,0,0,0,0
+,North Carolina,All Donor Types,132,130,119,51,41,20,11
+,,Deceased Donor,132,130,119,51,41,20,11
+,North Dakota,All Donor Types,14,14,12,6,3,1,5
+,,Deceased Donor,14,14,12,6,3,1,5
+,Ohio,All Donor Types,157,154,125,53,51,19,9
+,,Deceased Donor,157,154,125,53,51,19,9
+,Oklahoma,All Donor Types,71,68,55,29,5,4,6
+,,Deceased Donor,71,68,55,29,5,4,6
+,Oregon,All Donor Types,42,41,36,15,5,2,2
+,,Deceased Donor,42,41,36,15,5,2,2
+,Pennsylvania,All Donor Types,206,203,170,79,64,27,13
+,,Deceased Donor,206,203,170,79,64,27,13
+,Puerto Rico,All Donor Types,25,23,21,6,5,0,3
+,,Deceased Donor,25,23,21,6,5,0,3
+,Rhode Island,All Donor Types,12,11,9,5,2,2,1
+,,Deceased Donor,12,11,9,5,2,2,1
+,South Carolina,All Donor Types,75,74,66,36,22,8,5
+,,Deceased Donor,75,74,66,36,22,8,5
+,South Dakota,All Donor Types,20,20,20,10,7,5,4
+,,Deceased Donor,20,20,20,10,7,5,4
+,State unassigned,All Donor Types,77,76,67,30,13,10,4
+,,Deceased Donor,77,76,67,30,13,10,4
+,Tennessee,All Donor Types,96,95,77,37,25,9,8
+,,Deceased Donor,96,95,77,37,25,9,8
+,Texas,All Donor Types,399,394,339,153,50,36,19
+,,Deceased Donor,399,394,339,153,50,36,19
+,Utah,All Donor Types,51,51,48,20,9,0,3
+,,Deceased Donor,51,51,48,20,9,0,3
+,Vermont,All Donor Types,10,10,10,4,1,1,0
+,,Deceased Donor,10,10,10,4,1,1,0
+,Virginia,All Donor Types,93,93,77,37,17,12,8
+,,Deceased Donor,93,93,77,37,17,12,8
+,Washington,All Donor Types,67,63,56,22,7,4,1
+,,Deceased Donor,67,63,56,22,7,4,1
+,,,,,,,,,
+,West Virginia,All Donor Types,40,40,35,12,2,5,2
+,,Deceased Donor,40,40,35,12,2,5,2
+,Wisconsin,All Donor Types,99,96,89,40,44,13,3
+,,Deceased Donor,99,96,89,40,44,13,3
+,Wyoming,All Donor Types,6,6,3,1,1,0,0
+,,Deceased Donor,6,6,3,1,1,0,0
+11-17 Years,All Donor States of Residence,All Donor Types,16574,16200,14492,9563,7709,4568,440
+,,Deceased Donor,16509,16155,14472,9563,7709,4568,440
+,,Living Donor,65,45,20,0,0,0,0
+,Alabama,All Donor Types,328,321,268,180,131,85,5
+,,Deceased Donor,328,321,268,180,131,85,5
+,Alaska,All Donor Types,58,57,49,27,31,16,0
+,,Deceased Donor,58,57,49,27,31,16,0
+,Arizona,All Donor Types,303,298,271,158,120,80,5
+,,Deceased Donor,303,298,271,158,120,80,5
+,Arkansas,All Donor Types,177,172,153,108,59,50,6
+,,Deceased Donor,177,172,153,108,59,50,6
+,California,All Donor Types,1498,1456,1348,946,692,427,22
+,,Deceased Donor,1494,1453,1347,946,692,427,22
+,,Living Donor,4,3,1,0,0,0,0
+,Colorado,All Donor Types,291,284,268,185,156,76,6
+,,Deceased Donor,291,284,268,185,156,76,6
+,Connecticut,All Donor Types,130,124,104,77,50,21,1
+,,Deceased Donor,130,124,104,77,50,21,1
+,Delaware,All Donor Types,53,51,46,22,23,11,1
+,,Deceased Donor,53,51,46,22,23,11,1
+,District of Columbia,All Donor Types,33,32,29,22,24,9,0
+,,Deceased Donor,32,31,29,22,24,9,0
+,,Living Donor,1,1,0,0,0,0,0
+,Florida,All Donor Types,955,935,826,513,422,252,63
+,,Deceased Donor,955,935,826,513,422,252,63
+,Georgia,All Donor Types,498,489,439,310,197,133,12
+,,Deceased Donor,497,489,438,310,197,133,12
+,,Living Donor,1,0,1,0,0,0,0
+,Hawaii,All Donor Types,35,34,32,9,13,2,0
+,,Deceased Donor,35,34,32,9,13,2,0
+,Idaho,All Donor Types,111,108,100,72,55,24,4
+,,Deceased Donor,111,108,100,72,55,24,4
+,Illinois,All Donor Types,725,710,625,380,386,236,14
+,,Deceased Donor,717,704,623,380,386,236,14
+,,Living Donor,8,6,2,0,0,0,0
+,,,,,,,,,
+,Indiana,All Donor Types,415,407,380,272,234,121,39
+,,Deceased Donor,412,405,379,272,234,121,39
+,,Living Donor,3,2,1,0,0,0,0
+,Iowa,All Donor Types,206,199,188,106,113,57,3
+,,Deceased Donor,204,198,187,106,113,57,3
+,,Living Donor,2,1,1,0,0,0,0
+,Kansas,All Donor Types,257,255,233,137,133,77,6
+,,Deceased Donor,257,255,233,137,133,77,6
+,Kentucky,All Donor Types,239,234,214,135,103,84,4
+,,Deceased Donor,237,233,213,135,103,84,4
+,,Living Donor,2,1,1,0,0,0,0
+,Louisiana,All Donor Types,384,376,356,246,210,125,16
+,,Deceased Donor,384,376,356,246,210,125,16
+,Maine,All Donor Types,69,67,61,37,33,7,1
+,,Deceased Donor,69,67,61,37,33,7,1
+,Maryland,All Donor Types,268,260,234,152,157,94,10
+,,Deceased Donor,264,258,232,152,157,94,10
+,,Living Donor,4,2,2,0,0,0,0
+,Massachusetts,All Donor Types,213,208,167,113,81,42,3
+,,Deceased Donor,213,208,167,113,81,42,3
+,Michigan,All Donor Types,621,605,516,322,264,167,21
+,,Deceased Donor,619,605,514,322,264,167,21
+,,Living Donor,2,0,2,0,0,0,0
+,Minnesota,All Donor Types,272,268,244,156,184,87,7
+,,Deceased Donor,270,266,244,156,184,87,7
+,,Living Donor,2,2,0,0,0,0,0
+,Mississippi,All Donor Types,223,217,184,134,92,53,13
+,,Deceased Donor,223,217,184,134,92,53,13
+,Missouri,All Donor Types,441,430,398,264,192,143,13
+,,Deceased Donor,437,426,398,264,192,143,13
+,,Living Donor,4,4,0,0,0,0,0
+,Montana,All Donor Types,78,78,71,46,36,19,0
+,,Deceased Donor,78,78,71,46,36,19,0
+,Nebraska,All Donor Types,132,131,124,68,86,33,6
+,,Deceased Donor,132,131,124,68,86,33,6
+,Nevada,All Donor Types,140,139,131,91,61,38,5
+,,Deceased Donor,140,139,131,91,61,38,5
+,New Hampshire,All Donor Types,55,53,43,27,27,12,0
+,,Deceased Donor,55,53,43,27,27,12,0
+,New Jersey,All Donor Types,286,281,245,161,142,70,5
+,,Deceased Donor,284,280,244,161,142,70,5
+,,,,,,,,,
+,,Living Donor,2,1,1,0,0,0,0
+,New Mexico,All Donor Types,136,132,115,78,31,35,3
+,,Deceased Donor,136,132,115,78,31,35,3
+,New York,All Donor Types,600,580,504,350,252,130,22
+,,Deceased Donor,596,578,502,350,252,130,22
+,,Living Donor,4,2,2,0,0,0,0
+,North Carolina,All Donor Types,456,449,393,262,248,128,7
+,,Deceased Donor,456,449,393,262,248,128,7
+,North Dakota,All Donor Types,46,45,40,24,30,11,1
+,,Deceased Donor,45,44,40,24,30,11,1
+,,Living Donor,1,1,0,0,0,0,0
+,Ohio,All Donor Types,634,626,552,364,364,199,21
+,,Deceased Donor,630,622,552,364,364,199,21
+,,Living Donor,4,4,0,0,0,0,0
+,Oklahoma,All Donor Types,285,278,253,160,77,64,2
+,,Deceased Donor,282,275,253,160,77,64,2
+,,Living Donor,3,3,0,0,0,0,0
+,Oregon,All Donor Types,189,188,169,91,78,38,1
+,,Deceased Donor,189,188,169,91,78,38,1
+,Pennsylvania,All Donor Types,693,675,613,386,365,210,24
+,,Deceased Donor,691,675,611,386,365,210,24
+,,Living Donor,2,0,2,0,0,0,0
+,Puerto Rico,All Donor Types,112,111,89,48,41,27,5
+,,Deceased Donor,111,110,89,48,41,27,5
+,,Living Donor,1,1,0,0,0,0,0
+,Rhode Island,All Donor Types,23,21,19,16,13,4,0
+,,Deceased Donor,23,21,19,16,13,4,0
+,South Carolina,All Donor Types,275,272,247,178,133,86,4
+,,Deceased Donor,273,271,246,178,133,86,4
+,,Living Donor,2,1,1,0,0,0,0
+,South Dakota,All Donor Types,51,51,45,27,36,23,2
+,,Deceased Donor,51,51,45,27,36,23,2
+,State unassigned,All Donor Types,277,268,213,154,79,54,3
+,,Deceased Donor,273,265,212,154,79,54,3
+,,Living Donor,4,3,1,0,0,0,0
+,Tennessee,All Donor Types,404,394,348,247,210,124,11
+,,Deceased Donor,403,393,348,247,210,124,11
+,,Living Donor,1,1,0,0,0,0,0
+,Texas,All Donor Types,1503,1461,1309,929,523,440,19
+,,Deceased Donor,1499,1458,1308,929,523,440,19
+,,Living Donor,4,3,1,0,0,0,0
+,,,,,,,,,
+,Utah,All Donor Types,195,189,167,94,78,38,2
+,,Deceased Donor,195,189,167,94,78,38,2
+,Vermont,All Donor Types,35,35,32,20,13,9,1
+,,Deceased Donor,35,35,32,20,13,9,1
+,Virginia,All Donor Types,358,349,314,209,153,98,8
+,,Deceased Donor,356,348,313,209,153,98,8
+,,Living Donor,2,1,1,0,0,0,0
+,Washington,All Donor Types,277,270,251,149,121,65,2
+,,Deceased Donor,277,270,251,149,121,65,2
+,West Virginia,All Donor Types,118,117,103,62,61,31,4
+,,Deceased Donor,118,117,103,62,61,31,4
+,Wisconsin,All Donor Types,366,365,328,204,273,89,7
+,,Deceased Donor,364,363,328,204,273,89,7
+,,Living Donor,2,2,0,0,0,0,0
+,Wyoming,All Donor Types,47,45,41,35,23,14,0
+,,Deceased Donor,47,45,41,35,23,14,0
+18-34 Years,All Donor States of Residence,All Donor Types,118246,111623,58036,35821,24124,17341,830
+,,Deceased Donor,63600,60738,54491,35804,24101,17176,803
+,,Living Donor,54646,50885,3545,17,23,165,27
+,Alabama,All Donor Types,2063,2008,1015,629,363,298,4
+,,Deceased Donor,1170,1128,1004,627,363,298,4
+,,Living Donor,893,880,11,2,0,0,0
+,Alaska,All Donor Types,317,306,189,111,88,66,0
+,,Deceased Donor,209,205,182,111,88,66,0
+,,Living Donor,108,101,7,0,0,0,0
+,Arizona,All Donor Types,2351,2264,1142,669,410,374,10
+,,Deceased Donor,1248,1220,1089,668,410,369,10
+,,Living Donor,1103,1044,53,1,0,5,0
+,Arkansas,All Donor Types,1085,1034,625,421,246,197,23
+,,Deceased Donor,699,665,608,421,246,197,23
+,,Living Donor,386,369,17,0,0,0,0
+,California,All Donor Types,12272,11534,5998,3939,2349,1858,26
+,,Deceased Donor,6324,6091,5545,3934,2349,1812,25
+,,Living Donor,5948,5443,453,5,0,46,1
+,Colorado,All Donor Types,1753,1627,907,531,354,234,5
+,,Deceased Donor,925,899,812,531,354,230,4
+,,Living Donor,828,728,95,0,0,4,1
+,Connecticut,All Donor Types,1108,1038,510,303,181,108,5
+,,Deceased Donor,553,533,460,303,181,108,5
+,,Living Donor,555,505,50,0,0,0,0
+,Delaware,All Donor Types,415,393,236,152,116,83,4
+,,,,,,,,,
+,,Deceased Donor,269,259,224,152,115,83,4
+,,Living Donor,146,134,12,0,1,0,0
+,District of Columbia,All Donor Types,382,364,149,104,95,57,4
+,,Deceased Donor,161,157,135,104,95,57,4
+,,Living Donor,221,207,14,0,0,0,0
+,Florida,All Donor Types,6005,5705,3646,2183,1458,1066,87
+,,Deceased Donor,4131,3901,3581,2182,1458,1062,87
+,,Living Donor,1874,1804,65,1,0,4,0
+,Georgia,All Donor Types,3104,2919,1604,1089,568,512,21
+,,Deceased Donor,1769,1636,1554,1089,567,511,21
+,,Living Donor,1335,1283,50,0,1,1,0
+,Hawaii,All Donor Types,351,337,166,31,64,14,0
+,,Deceased Donor,195,193,154,31,64,14,0
+,,Living Donor,156,144,12,0,0,0,0
+,Idaho,All Donor Types,484,463,248,153,93,65,1
+,,Deceased Donor,270,261,237,152,93,65,1
+,,Living Donor,214,202,11,1,0,0,0
+,Illinois,All Donor Types,5857,5496,2396,1384,1253,758,41
+,,Deceased Donor,2598,2479,2163,1384,1251,758,30
+,,Living Donor,3259,3017,233,0,2,0,11
+,Indiana,All Donor Types,2572,2470,1374,884,582,469,90
+,,Deceased Donor,1523,1448,1351,884,582,468,87
+,,Living Donor,1049,1022,23,0,0,1,3
+,Iowa,All Donor Types,1082,1038,507,295,247,151,7
+,,Deceased Donor,550,536,479,295,246,150,6
+,,Living Donor,532,502,28,0,1,1,1
+,Kansas,All Donor Types,1108,1071,666,401,318,215,8
+,,Deceased Donor,758,736,653,401,318,213,8
+,,Living Donor,350,335,13,0,0,2,0
+,Kentucky,All Donor Types,1551,1484,831,513,387,236,7
+,,Deceased Donor,936,891,810,513,386,236,7
+,,Living Donor,615,593,21,0,1,0,0
+,Louisiana,All Donor Types,2074,1962,1208,750,529,374,12
+,,Deceased Donor,1296,1213,1181,750,529,372,12
+,,Living Donor,778,749,27,0,0,2,0
+,Maine,All Donor Types,478,440,267,157,99,66,3
+,,Deceased Donor,284,277,240,157,99,62,3
+,,Living Donor,194,163,27,0,0,4,0
+,Maryland,All Donor Types,2700,2529,1208,677,629,403,16
+,,Deceased Donor,1229,1178,1088,677,629,403,16
+,,Living Donor,1471,1351,120,0,0,0,0
+,,,,,,,,,
+,Massachusetts,All Donor Types,2258,2081,950,530,296,211,10
+,,Deceased Donor,1028,979,837,530,295,198,9
+,,Living Donor,1230,1102,113,0,1,13,1
+,Michigan,All Donor Types,4295,4100,1813,1094,682,605,37
+,,Deceased Donor,2127,2038,1708,1094,682,604,37
+,,Living Donor,2168,2062,105,0,0,1,0
+,Minnesota,All Donor Types,2485,2352,886,538,585,268,27
+,,Deceased Donor,900,877,787,537,577,263,24
+,,Living Donor,1585,1475,99,1,8,5,3
+,Mississippi,All Donor Types,929,887,489,304,197,144,8
+,,Deceased Donor,577,553,475,303,197,141,8
+,,Living Donor,352,334,14,1,0,3,0
+,Missouri,All Donor Types,2543,2409,1453,907,601,554,27
+,,Deceased Donor,1651,1551,1420,907,601,553,27
+,,Living Donor,892,858,33,0,0,1,0
+,Montana,All Donor Types,345,323,190,125,87,43,3
+,,Deceased Donor,202,195,176,125,87,42,3
+,,Living Donor,143,128,14,0,0,1,0
+,Nebraska,All Donor Types,648,615,342,215,178,105,8
+,,Deceased Donor,363,353,321,215,178,103,8
+,,Living Donor,285,262,21,0,0,2,0
+,Nevada,All Donor Types,872,818,477,299,171,145,3
+,,Deceased Donor,528,499,457,299,171,140,3
+,,Living Donor,344,319,20,0,0,5,0
+,New Hampshire,All Donor Types,406,374,189,107,71,46,2
+,,Deceased Donor,204,194,168,107,71,45,2
+,,Living Donor,202,180,21,0,0,1,0
+,New Jersey,All Donor Types,3030,2851,1292,780,560,332,6
+,,Deceased Donor,1413,1348,1179,780,560,331,6
+,,Living Donor,1617,1503,113,0,0,1,0
+,New Mexico,All Donor Types,771,740,432,274,123,101,7
+,,Deceased Donor,514,492,423,274,123,101,7
+,,Living Donor,257,248,9,0,0,0,0
+,New York,All Donor Types,6530,5925,2637,1424,880,448,23
+,,Deceased Donor,2617,2458,2198,1424,880,441,23
+,,Living Donor,3913,3467,439,0,0,7,0
+,North Carolina,All Donor Types,3207,3040,1670,1088,802,571,26
+,,Deceased Donor,1883,1784,1602,1088,802,571,26
+,,Living Donor,1324,1256,68,0,0,0,0
+,North Dakota,All Donor Types,310,299,128,74,77,34,2
+,,Deceased Donor,136,132,121,74,77,34,2
+,,,,,,,,,
+,,Living Donor,174,167,7,0,0,0,0
+,Ohio,All Donor Types,4956,4702,2366,1364,1183,699,49
+,,Deceased Donor,2655,2516,2253,1364,1182,698,49
+,,Living Donor,2301,2186,113,0,1,1,0
+,Oklahoma,All Donor Types,1288,1220,773,487,230,221,4
+,,Deceased Donor,901,850,759,487,230,218,4
+,,Living Donor,387,370,14,0,0,3,0
+,Oregon,All Donor Types,1111,1069,538,325,218,119,0
+,,Deceased Donor,606,591,515,323,218,117,0
+,,Living Donor,505,478,23,2,0,2,0
+,Pennsylvania,All Donor Types,5494,5087,3087,1753,1342,984,62
+,,Deceased Donor,3285,3152,2821,1753,1339,979,61
+,,Living Donor,2209,1935,266,0,3,5,1
+,Puerto Rico,All Donor Types,874,824,475,238,173,123,16
+,,Deceased Donor,508,485,448,238,173,123,16
+,,Living Donor,366,339,27,0,0,0,0
+,Rhode Island,All Donor Types,373,344,118,80,45,25,2
+,,Deceased Donor,148,139,101,80,45,22,2
+,,Living Donor,225,205,17,0,0,3,0
+,South Carolina,All Donor Types,1615,1556,931,646,419,316,7
+,,Deceased Donor,1035,994,915,646,419,314,7
+,,Living Donor,580,562,16,0,0,2,0
+,South Dakota,All Donor Types,310,298,152,91,98,46,3
+,,Deceased Donor,161,158,143,91,98,46,3
+,,Living Donor,149,140,9,0,0,0,0
+,State unassigned,All Donor Types,2943,2684,1015,655,363,232,9
+,,Deceased Donor,1101,1039,834,654,363,218,8
+,,Living Donor,1842,1645,181,1,0,14,1
+,Tennessee,All Donor Types,2642,2532,1400,959,584,439,32
+,,Deceased Donor,1567,1492,1368,959,584,436,32
+,,Living Donor,1075,1040,32,0,0,3,0
+,Texas,All Donor Types,9071,8692,4569,3264,1505,1596,35
+,,Deceased Donor,5211,4977,4436,3263,1504,1586,34
+,,Living Donor,3860,3715,133,1,1,10,1
+,Utah,All Donor Types,1277,1210,541,316,206,134,1
+,,Deceased Donor,593,565,503,316,206,133,1
+,,Living Donor,684,645,38,0,0,1,0
+,Vermont,All Donor Types,240,222,122,67,45,24,1
+,,Deceased Donor,123,120,107,67,45,24,1
+,,Living Donor,117,102,15,0,0,0,0
+,Virginia,All Donor Types,2920,2739,1322,797,497,370,18
+,,,,,,,,,
+,,Deceased Donor,1388,1330,1202,797,496,370,15
+,,Living Donor,1532,1409,120,0,1,0,3
+,Washington,All Donor Types,1891,1822,939,552,385,275,3
+,,Deceased Donor,1062,1036,902,551,385,270,3
+,,Living Donor,829,786,37,1,0,5,0
+,West Virginia,All Donor Types,730,664,454,243,184,122,17
+,,Deceased Donor,457,433,414,243,184,120,17
+,,Living Donor,273,231,40,0,0,2,0
+,Wisconsin,All Donor Types,2535,2439,1256,756,846,367,7
+,,Deceased Donor,1408,1355,1217,756,844,364,7
+,,Living Donor,1127,1084,39,0,2,3,0
+,Wyoming,All Donor Types,235,223,138,93,62,38,1
+,,Deceased Donor,151,147,131,93,62,37,1
+,,Living Donor,84,76,7,0,0,1,0
+35-49 Years,All Donor States of Residence,All Donor Types,128971,121511,48171,19823,10264,10568,297
+,,Deceased Donor,57545,53144,45397,19805,10231,10317,288
+,,Living Donor,71426,68367,2774,18,33,251,9
+,Alabama,All Donor Types,2045,1969,726,236,78,128,2
+,,Deceased Donor,903,837,719,236,78,125,2
+,,Living Donor,1142,1132,7,0,0,3,0
+,Alaska,All Donor Types,363,356,134,48,24,37,0
+,,Deceased Donor,187,183,133,47,24,36,0
+,,Living Donor,176,173,1,1,0,1,0
+,Arizona,All Donor Types,2292,2169,822,320,125,202,3
+,,Deceased Donor,946,905,760,319,125,183,3
+,,Living Donor,1346,1264,62,1,0,19,0
+,Arkansas,All Donor Types,1010,967,461,168,77,72,5
+,,Deceased Donor,549,517,455,168,76,68,5
+,,Living Donor,461,450,6,0,1,4,0
+,California,All Donor Types,13181,12409,5052,2183,893,1257,8
+,,Deceased Donor,5987,5606,4729,2180,892,1193,8
+,,Living Donor,7194,6803,323,3,1,64,0
+,Colorado,All Donor Types,2082,1955,732,326,176,128,6
+,,Deceased Donor,820,765,661,326,176,127,6
+,,Living Donor,1262,1190,71,0,0,1,0
+,Connecticut,All Donor Types,1426,1346,491,228,92,83,1
+,,Deceased Donor,566,535,443,228,91,82,1
+,,Living Donor,860,811,48,0,1,1,0
+,Delaware,All Donor Types,506,468,242,103,48,74,6
+,,Deceased Donor,283,258,229,103,48,74,6
+,,Living Donor,223,210,13,0,0,0,0
+,,,,,,,,,
+,District of Columbia,All Donor Types,304,287,113,42,30,26,0
+,,Deceased Donor,138,125,109,42,30,26,0
+,,Living Donor,166,162,4,0,0,0,0
+,Florida,All Donor Types,6302,5929,2905,1148,517,645,38
+,,Deceased Donor,3666,3352,2858,1148,517,633,38
+,,Living Donor,2636,2577,47,0,0,12,0
+,Georgia,All Donor Types,3521,3252,1410,539,148,293,6
+,,Deceased Donor,1682,1449,1378,538,148,290,6
+,,Living Donor,1839,1803,32,1,0,3,0
+,Hawaii,All Donor Types,465,448,195,22,30,12,0
+,,Deceased Donor,271,257,192,22,30,12,0
+,,Living Donor,194,191,3,0,0,0,0
+,Idaho,All Donor Types,585,556,195,77,40,36,0
+,,Deceased Donor,234,218,182,77,40,36,0
+,,Living Donor,351,338,13,0,0,0,0
+,Illinois,All Donor Types,5754,5408,1918,755,644,459,14
+,,Deceased Donor,2370,2198,1755,755,639,454,8
+,,Living Donor,3384,3210,163,0,5,5,6
+,Indiana,All Donor Types,2757,2617,1125,503,283,243,24
+,,Deceased Donor,1290,1187,1095,503,283,236,24
+,,Living Donor,1467,1430,30,0,0,7,0
+,Iowa,All Donor Types,1337,1294,414,176,133,97,2
+,,Deceased Donor,482,460,397,176,132,93,2
+,,Living Donor,855,834,17,0,1,4,0
+,Kansas,All Donor Types,1121,1073,511,235,147,127,3
+,,Deceased Donor,643,611,498,235,147,124,3
+,,Living Donor,478,462,13,0,0,3,0
+,Kentucky,All Donor Types,1670,1597,665,268,139,146,1
+,,Deceased Donor,800,746,647,268,138,145,1
+,,Living Donor,870,851,18,0,1,1,0
+,Louisiana,All Donor Types,1802,1658,906,303,168,202,4
+,,Deceased Donor,1032,897,898,303,168,202,3
+,,Living Donor,770,761,8,0,0,0,1
+,Maine,All Donor Types,620,575,209,86,50,35,2
+,,Deceased Donor,250,232,185,86,50,32,2
+,,Living Donor,370,343,24,0,0,3,0
+,Maryland,All Donor Types,3035,2832,1067,406,299,286,7
+,,Deceased Donor,1199,1090,976,406,298,283,7
+,,Living Donor,1836,1742,91,0,1,3,0
+,Massachusetts,All Donor Types,2909,2687,902,403,180,169,2
+,,Deceased Donor,1065,994,766,403,180,154,2
+,,,,,,,,,
+,,Living Donor,1844,1693,136,0,0,15,0
+,Michigan,All Donor Types,4926,4683,1611,671,317,448,12
+,,Deceased Donor,2084,1931,1525,670,317,445,12
+,,Living Donor,2842,2752,86,1,0,3,0
+,Minnesota,All Donor Types,3085,2938,834,342,408,206,15
+,,Deceased Donor,877,830,741,341,398,201,15
+,,Living Donor,2208,2108,93,1,10,5,0
+,Mississippi,All Donor Types,1002,950,423,149,61,69,2
+,,Deceased Donor,532,494,409,149,61,69,2
+,,Living Donor,470,456,14,0,0,0,0
+,Missouri,All Donor Types,2372,2196,1069,410,219,296,5
+,,Deceased Donor,1315,1166,1045,410,219,293,5
+,,Living Donor,1057,1030,24,0,0,3,0
+,Montana,All Donor Types,444,427,147,67,32,24,0
+,,Deceased Donor,173,165,139,66,32,24,0
+,,Living Donor,271,262,8,1,0,0,0
+,Nebraska,All Donor Types,765,733,279,92,100,50,0
+,,Deceased Donor,302,287,265,92,100,47,0
+,,Living Donor,463,446,14,0,0,3,0
+,Nevada,All Donor Types,933,881,431,191,60,103,0
+,,Deceased Donor,519,484,416,191,60,101,0
+,,Living Donor,414,397,15,0,0,2,0
+,New Hampshire,All Donor Types,647,604,209,101,46,51,1
+,,Deceased Donor,237,224,182,101,46,48,1
+,,Living Donor,410,380,27,0,0,3,0
+,New Jersey,All Donor Types,3897,3721,1220,541,276,222,3
+,,Deceased Donor,1523,1426,1144,541,276,219,3
+,,Living Donor,2374,2295,76,0,0,3,0
+,New Mexico,All Donor Types,743,708,278,113,29,34,2
+,,Deceased Donor,351,334,260,113,29,34,2
+,,Living Donor,392,374,18,0,0,0,0
+,New York,All Donor Types,7477,6803,2564,977,445,305,17
+,,Deceased Donor,2750,2437,2213,977,444,296,17
+,,Living Donor,4727,4366,351,0,1,9,0
+,North Carolina,All Donor Types,3311,3137,1296,631,333,346,11
+,,Deceased Donor,1592,1482,1238,630,333,341,11
+,,Living Donor,1719,1655,58,1,0,5,0
+,North Dakota,All Donor Types,366,356,90,45,53,18,3
+,,Deceased Donor,117,116,82,45,52,18,2
+,,Living Donor,249,240,8,0,1,0,1
+,Ohio,All Donor Types,5559,5278,2006,818,601,468,11
+,,,,,,,,,
+,,Deceased Donor,2400,2213,1921,818,599,460,11
+,,Living Donor,3159,3065,85,0,2,8,0
+,Oklahoma,All Donor Types,1391,1309,627,267,61,114,1
+,,Deceased Donor,818,749,614,267,61,114,1
+,,Living Donor,573,560,13,0,0,0,0
+,Oregon,All Donor Types,1325,1285,442,210,85,76,1
+,,Deceased Donor,544,524,426,210,85,72,1
+,,Living Donor,781,761,16,0,0,4,0
+,Pennsylvania,All Donor Types,6462,6009,2816,1120,645,592,25
+,,Deceased Donor,3226,2997,2596,1120,644,588,25
+,,Living Donor,3236,3012,220,0,1,4,0
+,Puerto Rico,All Donor Types,719,667,302,50,23,50,1
+,,Deceased Donor,367,329,289,50,23,49,1
+,,Living Donor,352,338,13,0,0,1,0
+,Rhode Island,All Donor Types,456,431,124,49,32,16,0
+,,Deceased Donor,144,135,109,49,32,15,0
+,,Living Donor,312,296,15,0,0,1,0
+,South Carolina,All Donor Types,1792,1695,865,367,147,197,1
+,,Deceased Donor,1001,925,846,367,147,195,1
+,,Living Donor,791,770,19,0,0,2,0
+,South Dakota,All Donor Types,383,366,127,49,63,28,1
+,,Deceased Donor,138,128,120,49,62,28,1
+,,Living Donor,245,238,7,0,1,0,0
+,State unassigned,All Donor Types,2709,2569,602,297,141,107,2
+,,Deceased Donor,738,701,515,293,138,96,2
+,,Living Donor,1971,1868,87,4,3,11,0
+,Tennessee,All Donor Types,2623,2454,1206,544,246,255,14
+,,Deceased Donor,1417,1273,1181,544,245,255,14
+,,Living Donor,1206,1181,25,0,1,0,0
+,Texas,All Donor Types,9075,8546,3537,1595,418,925,10
+,,Deceased Donor,4442,4025,3439,1594,418,913,9
+,,Living Donor,4633,4521,98,1,0,12,1
+,Utah,All Donor Types,1170,1124,326,167,69,64,0
+,,Deceased Donor,408,385,308,166,69,60,0
+,,Living Donor,762,739,18,1,0,4,0
+,Vermont,All Donor Types,278,259,83,28,22,18,0
+,,Deceased Donor,98,93,70,28,22,17,0
+,,Living Donor,180,166,13,0,0,1,0
+,Virginia,All Donor Types,3577,3377,1166,452,188,257,13
+,,Deceased Donor,1300,1230,1045,452,188,248,13
+,,Living Donor,2277,2147,121,0,0,9,0
+,,,,,,,,,
+,Washington,All Donor Types,2237,2179,744,302,166,157,2
+,,Deceased Donor,950,918,722,300,166,155,2
+,,Living Donor,1287,1261,22,2,0,2,0
+,West Virginia,All Donor Types,786,726,373,119,86,64,7
+,,Deceased Donor,409,381,342,119,85,64,7
+,,Living Donor,377,345,31,0,1,0,0
+,Wisconsin,All Donor Types,3172,3055,1108,456,555,240,3
+,,Deceased Donor,1326,1261,1062,456,554,234,3
+,,Living Donor,1846,1794,46,0,1,6,0
+,Wyoming,All Donor Types,202,193,71,28,16,11,0
+,,Deceased Donor,84,79,68,28,16,10,0
+,,Living Donor,118,114,3,0,0,1,0
+50-64 Years,All Donor States of Residence,All Donor Types,89826,84059,41412,5773,2471,5952,60
+,,Deceased Donor,53900,49048,40577,5767,2455,5892,52
+,,Living Donor,35926,35011,835,6,16,60,8
+,Alabama,All Donor Types,1400,1291,727,35,11,44,0
+,,Deceased Donor,886,779,726,35,10,44,0
+,,Living Donor,514,512,1,0,1,0,0
+,Alaska,All Donor Types,197,193,75,10,2,10,0
+,,Deceased Donor,100,97,74,10,2,10,0
+,,Living Donor,97,96,1,0,0,0,0
+,Arizona,All Donor Types,1505,1437,598,64,13,83,1
+,,Deceased Donor,769,722,578,64,13,82,1
+,,Living Donor,736,715,20,0,0,1,0
+,Arkansas,All Donor Types,601,565,329,34,12,40,1
+,,Deceased Donor,392,360,327,34,12,38,1
+,,Living Donor,209,205,2,0,0,2,0
+,California,All Donor Types,9249,8732,4363,744,157,783,3
+,,Deceased Donor,5692,5292,4267,743,157,764,2
+,,Living Donor,3557,3440,96,1,0,19,1
+,Colorado,All Donor Types,1269,1211,460,75,44,48,3
+,,Deceased Donor,597,565,434,75,44,48,3
+,,Living Donor,672,646,26,0,0,0,0
+,Connecticut,All Donor Types,1105,1051,370,73,19,41,0
+,,Deceased Donor,487,453,350,73,19,41,0
+,,Living Donor,618,598,20,0,0,0,0
+,Delaware,All Donor Types,356,332,199,36,13,23,0
+,,Deceased Donor,263,240,198,36,13,23,0
+,,Living Donor,93,92,1,0,0,0,0
+,District of Columbia,All Donor Types,236,208,121,5,3,15,0
+,,Deceased Donor,156,131,119,5,3,14,0
+,,,,,,,,,
+,,Living Donor,80,77,2,0,0,1,0
+,Florida,All Donor Types,5107,4698,2703,280,78,354,6
+,,Deceased Donor,3564,3177,2685,280,76,351,6
+,,Living Donor,1543,1521,18,0,2,3,0
+,Georgia,All Donor Types,2424,2154,1308,140,13,185,0
+,,Deceased Donor,1584,1325,1298,140,12,185,0
+,,Living Donor,840,829,10,0,1,0,0
+,Hawaii,All Donor Types,375,365,166,4,1,4,0
+,,Deceased Donor,227,220,163,4,1,4,0
+,,Living Donor,148,145,3,0,0,0,0
+,Idaho,All Donor Types,359,351,138,21,4,18,0
+,,Deceased Donor,189,184,136,20,4,18,0
+,,Living Donor,170,167,2,1,0,0,0
+,Illinois,All Donor Types,4121,3809,1819,234,275,314,10
+,,Deceased Donor,2513,2246,1779,234,274,313,7
+,,Living Donor,1608,1563,40,0,1,1,3
+,Indiana,All Donor Types,1572,1474,793,124,47,138,0
+,,Deceased Donor,963,878,781,124,46,138,0
+,,Living Donor,609,596,12,0,1,0,0
+,Iowa,All Donor Types,902,869,357,65,39,38,0
+,,Deceased Donor,457,429,352,65,39,38,0
+,,Living Donor,445,440,5,0,0,0,0
+,Kansas,All Donor Types,769,724,409,56,34,62,1
+,,Deceased Donor,524,482,406,56,33,62,1
+,,Living Donor,245,242,3,0,1,0,0
+,Kentucky,All Donor Types,965,923,517,70,34,66,0
+,,Deceased Donor,644,602,517,70,34,66,0
+,,Living Donor,321,321,0,0,0,0,0
+,Louisiana,All Donor Types,1218,1074,780,53,17,93,1
+,,Deceased Donor,879,740,776,53,17,93,0
+,,Living Donor,339,334,4,0,0,0,1
+,Maine,All Donor Types,461,437,156,30,17,23,0
+,,Deceased Donor,220,213,142,30,16,20,0
+,,Living Donor,241,224,14,0,1,3,0
+,Maryland,All Donor Types,2186,2023,1010,110,40,184,3
+,,Deceased Donor,1236,1105,978,110,40,184,3
+,,Living Donor,950,918,32,0,0,0,0
+,Massachusetts,All Donor Types,2033,1923,686,140,45,93,1
+,,Deceased Donor,967,915,634,140,45,87,1
+,,Living Donor,1066,1008,52,0,0,6,0
+,Michigan,All Donor Types,3514,3337,1372,224,90,260,2
+,,,,,,,,,
+,,Deceased Donor,2040,1888,1351,224,90,257,1
+,,Living Donor,1474,1449,21,0,0,3,1
+,Minnesota,All Donor Types,2006,1935,687,142,169,102,9
+,,Deceased Donor,834,797,656,141,167,101,8
+,,Living Donor,1172,1138,31,1,2,1,1
+,Mississippi,All Donor Types,658,613,377,41,10,38,0
+,,Deceased Donor,479,438,373,41,10,38,0
+,,Living Donor,179,175,4,0,0,0,0
+,Missouri,All Donor Types,1796,1635,1044,106,65,173,1
+,,Deceased Donor,1293,1135,1041,106,65,173,1
+,,Living Donor,503,500,3,0,0,0,0
+,Montana,All Donor Types,279,274,102,20,8,14,0
+,,Deceased Donor,143,139,101,20,8,14,0
+,,Living Donor,136,135,1,0,0,0,0
+,Nebraska,All Donor Types,589,563,250,28,35,35,0
+,,Deceased Donor,319,298,246,28,35,34,0
+,,Living Donor,270,265,4,0,0,1,0
+,Nevada,All Donor Types,741,683,419,58,9,49,0
+,,Deceased Donor,536,483,415,58,9,48,0
+,,Living Donor,205,200,4,0,0,1,0
+,New Hampshire,All Donor Types,480,455,162,29,12,28,0
+,,Deceased Donor,220,207,151,29,12,27,0
+,,Living Donor,260,248,11,0,0,1,0
+,New Jersey,All Donor Types,2994,2834,1204,169,83,131,0
+,,Deceased Donor,1593,1465,1172,169,83,131,0
+,,Living Donor,1401,1369,32,0,0,0,0
+,New Mexico,All Donor Types,482,455,205,27,8,15,1
+,,Deceased Donor,282,261,200,27,8,15,0
+,,Living Donor,200,194,5,0,0,0,1
+,New York,All Donor Types,5651,5183,2355,307,104,189,1
+,,Deceased Donor,2997,2634,2250,307,103,189,1
+,,Living Donor,2654,2549,105,0,1,0,0
+,North Carolina,All Donor Types,2285,2147,1060,237,57,223,1
+,,Deceased Donor,1478,1354,1050,237,57,219,1
+,,Living Donor,807,793,10,0,0,4,0
+,North Dakota,All Donor Types,224,214,82,11,16,12,1
+,,Deceased Donor,94,88,78,11,16,12,1
+,,Living Donor,130,126,4,0,0,0,0
+,Ohio,All Donor Types,3670,3464,1682,222,145,251,2
+,,Deceased Donor,2176,1995,1657,222,145,251,2
+,,Living Donor,1494,1469,25,0,0,0,0
+,,,,,,,,,
+,Oklahoma,All Donor Types,968,917,480,65,12,44,0
+,,Deceased Donor,678,630,477,65,12,44,0
+,,Living Donor,290,287,3,0,0,0,0
+,Oregon,All Donor Types,918,895,377,64,23,34,1
+,,Deceased Donor,472,456,374,62,23,32,1
+,,Living Donor,446,439,3,2,0,2,0
+,Pennsylvania,All Donor Types,5027,4675,2706,458,231,394,3
+,,Deceased Donor,3450,3166,2641,458,231,391,3
+,,Living Donor,1577,1509,65,0,0,3,0
+,Puerto Rico,All Donor Types,724,631,447,3,1,44,0
+,,Deceased Donor,593,501,446,3,0,44,0
+,,Living Donor,131,130,1,0,1,0,0
+,Rhode Island,All Donor Types,310,299,90,24,9,13,0
+,,Deceased Donor,129,123,85,24,9,13,0
+,,Living Donor,181,176,5,0,0,0,0
+,South Carolina,All Donor Types,1201,1133,743,101,14,116,0
+,,Deceased Donor,880,814,741,101,14,116,0
+,,Living Donor,321,319,2,0,0,0,0
+,South Dakota,All Donor Types,261,256,95,13,21,15,1
+,,Deceased Donor,113,110,93,13,21,15,1
+,,Living Donor,148,146,2,0,0,0,0
+,State unassigned,All Donor Types,1409,1347,446,78,39,63,1
+,,Deceased Donor,646,602,431,78,38,61,1
+,,Living Donor,763,745,15,0,1,2,0
+,Tennessee,All Donor Types,1667,1533,923,125,44,133,1
+,,Deceased Donor,1147,1020,917,125,44,132,1
+,,Living Donor,520,513,6,0,0,1,0
+,Texas,All Donor Types,5834,5357,2808,304,61,433,0
+,,Deceased Donor,3702,3256,2780,304,61,430,0
+,,Living Donor,2132,2101,28,0,0,3,0
+,Utah,All Donor Types,606,568,217,46,8,21,0
+,,Deceased Donor,299,268,210,46,8,21,0
+,,Living Donor,307,300,7,0,0,0,0
+,Vermont,All Donor Types,182,173,59,14,2,10,0
+,,Deceased Donor,83,80,53,14,2,10,0
+,,Living Donor,99,93,6,0,0,0,0
+,Virginia,All Donor Types,2353,2241,961,147,39,161,1
+,,Deceased Donor,1221,1149,923,146,39,160,1
+,,Living Donor,1132,1092,38,1,0,1,0
+,Washington,All Donor Types,1568,1530,579,106,35,95,1
+,,Deceased Donor,811,781,571,106,35,95,1
+,,,,,,,,,
+,,Living Donor,757,749,8,0,0,0,0
+,West Virginia,All Donor Types,541,505,310,28,35,39,2
+,,Deceased Donor,383,353,304,28,34,39,2
+,,Living Donor,158,152,6,0,1,0,0
+,Wisconsin,All Donor Types,2329,2221,1012,161,159,146,1
+,,Deceased Donor,1411,1316,1000,161,157,145,1
+,,Living Donor,918,905,12,0,2,1,0
+,Wyoming,All Donor Types,149,142,74,12,9,12,0
+,,Deceased Donor,89,86,70,12,9,12,0
+,,Living Donor,60,56,4,0,0,0,0
+65 +,All Donor States of Residence,All Donor Types,18954,14897,13647,126,106,461,6
+,,Deceased Donor,15974,11938,13628,126,106,459,6
+,,Living Donor,2980,2959,19,0,0,2,0
+,Alabama,All Donor Types,252,214,181,0,0,5,0
+,,Deceased Donor,214,176,181,0,0,5,0
+,,Living Donor,38,38,0,0,0,0,0
+,Alaska,All Donor Types,21,18,13,0,1,0,0
+,,Deceased Donor,16,13,13,0,1,0,0
+,,Living Donor,5,5,0,0,0,0,0
+,Arizona,All Donor Types,280,246,187,0,1,3,0
+,,Deceased Donor,229,196,186,0,1,3,0
+,,Living Donor,51,50,1,0,0,0,0
+,Arkansas,All Donor Types,104,82,87,0,0,5,0
+,,Deceased Donor,95,73,87,0,0,5,0
+,,Living Donor,9,9,0,0,0,0,0
+,California,All Donor Types,1669,1476,1055,20,14,67,0
+,,Deceased Donor,1332,1140,1054,20,14,67,0
+,,Living Donor,337,336,1,0,0,0,0
+,Colorado,All Donor Types,164,141,102,3,4,5,0
+,,Deceased Donor,127,104,102,3,4,5,0
+,,Living Donor,37,37,0,0,0,0,0
+,Connecticut,All Donor Types,187,165,110,6,0,7,0
+,,Deceased Donor,126,105,110,6,0,6,0
+,,Living Donor,61,60,0,0,0,1,0
+,Delaware,All Donor Types,125,101,100,1,1,5,0
+,,Deceased Donor,115,91,100,1,1,5,0
+,,Living Donor,10,10,0,0,0,0,0
+,District of Columbia,All Donor Types,55,43,41,0,0,4,0
+,,Deceased Donor,49,37,41,0,0,4,0
+,,Living Donor,6,6,0,0,0,0,0
+,Florida,All Donor Types,1407,971,1071,3,3,21,1
+,,,,,,,,,
+,,Deceased Donor,1254,819,1070,3,3,21,1
+,,Living Donor,153,152,1,0,0,0,0
+,Georgia,All Donor Types,520,352,417,0,0,11,0
+,,Deceased Donor,464,296,417,0,0,11,0
+,,Living Donor,56,56,0,0,0,0,0
+,Hawaii,All Donor Types,39,39,9,0,0,0,0
+,,Deceased Donor,25,25,9,0,0,0,0
+,,Living Donor,14,14,0,0,0,0,0
+,Idaho,All Donor Types,28,25,14,0,0,0,0
+,,Deceased Donor,17,14,14,0,0,0,0
+,,Living Donor,11,11,0,0,0,0,0
+,Illinois,All Donor Types,897,654,649,13,14,30,3
+,,Deceased Donor,795,552,649,13,14,30,3
+,,Living Donor,102,102,0,0,0,0,0
+,Indiana,All Donor Types,239,205,182,0,1,10,0
+,,Deceased Donor,208,174,182,0,1,10,0
+,,Living Donor,31,31,0,0,0,0,0
+,Iowa,All Donor Types,143,128,89,2,2,3,0
+,,Deceased Donor,101,86,89,2,2,3,0
+,,Living Donor,42,42,0,0,0,0,0
+,Kansas,All Donor Types,184,126,160,0,1,6,0
+,,Deceased Donor,169,112,159,0,1,6,0
+,,Living Donor,15,14,1,0,0,0,0
+,Kentucky,All Donor Types,121,106,86,2,3,2,0
+,,Deceased Donor,100,85,86,2,3,2,0
+,,Living Donor,21,21,0,0,0,0,0
+,Louisiana,All Donor Types,184,124,151,0,2,5,0
+,,Deceased Donor,165,105,151,0,2,5,0
+,,Living Donor,19,19,0,0,0,0,0
+,Maine,All Donor Types,95,86,51,0,1,1,0
+,,Deceased Donor,64,55,51,0,1,1,0
+,,Living Donor,31,31,0,0,0,0,0
+,Maryland,All Donor Types,537,466,356,0,1,16,0
+,,Deceased Donor,429,359,355,0,1,16,0
+,,Living Donor,108,107,1,0,0,0,0
+,Massachusetts,All Donor Types,409,362,263,1,1,13,0
+,,Deceased Donor,319,273,262,1,1,13,0
+,,Living Donor,90,89,1,0,0,0,0
+,Michigan,All Donor Types,549,459,344,3,1,34,0
+,,Deceased Donor,446,356,344,3,1,34,0
+,,Living Donor,103,103,0,0,0,0,0
+,,,,,,,,,
+,Minnesota,All Donor Types,386,325,242,4,7,5,0
+,,Deceased Donor,275,216,240,4,7,5,0
+,,Living Donor,111,109,2,0,0,0,0
+,Mississippi,All Donor Types,139,108,106,0,0,0,0
+,,Deceased Donor,126,95,106,0,0,0,0
+,,Living Donor,13,13,0,0,0,0,0
+,Missouri,All Donor Types,460,293,393,1,5,15,0
+,,Deceased Donor,413,246,393,1,5,15,0
+,,Living Donor,47,47,0,0,0,0,0
+,Montana,All Donor Types,31,26,16,0,1,2,0
+,,Deceased Donor,21,16,16,0,1,2,0
+,,Living Donor,10,10,0,0,0,0,0
+,Nebraska,All Donor Types,83,69,64,1,1,2,0
+,,Deceased Donor,72,59,63,1,1,2,0
+,,Living Donor,11,10,1,0,0,0,0
+,Nevada,All Donor Types,162,132,132,1,1,8,0
+,,Deceased Donor,145,115,132,1,1,8,0
+,,Living Donor,17,17,0,0,0,0,0
+,New Hampshire,All Donor Types,80,72,44,0,0,2,0
+,,Deceased Donor,58,50,44,0,0,2,0
+,,Living Donor,22,22,0,0,0,0,0
+,New Jersey,All Donor Types,633,559,423,3,2,7,0
+,,Deceased Donor,495,423,421,3,2,7,0
+,,Living Donor,138,136,2,0,0,0,0
+,New Mexico,All Donor Types,91,77,62,0,1,2,0
+,,Deceased Donor,71,57,62,0,1,2,0
+,,Living Donor,20,20,0,0,0,0,0
+,New York,All Donor Types,1748,1109,1362,4,6,16,0
+,,Deceased Donor,1487,852,1358,4,6,16,0
+,,Living Donor,261,257,4,0,0,0,0
+,North Carolina,All Donor Types,477,384,330,7,3,24,0
+,,Deceased Donor,404,311,330,7,3,24,0
+,,Living Donor,73,73,0,0,0,0,0
+,North Dakota,All Donor Types,44,35,28,0,1,0,0
+,,Deceased Donor,33,24,28,0,1,0,0
+,,Living Donor,11,11,0,0,0,0,0
+,Ohio,All Donor Types,627,538,433,10,1,21,0
+,,Deceased Donor,529,440,433,10,1,21,0
+,,Living Donor,98,98,0,0,0,0,0
+,Oklahoma,All Donor Types,170,142,124,1,0,4,0
+,,Deceased Donor,151,123,124,1,0,4,0
+,,,,,,,,,
+,,Living Donor,19,19,0,0,0,0,0
+,Oregon,All Donor Types,122,119,67,0,1,2,0
+,,Deceased Donor,72,69,67,0,1,2,0
+,,Living Donor,50,50,0,0,0,0,0
+,Pennsylvania,All Donor Types,1611,1327,1289,12,11,32,0
+,,Deceased Donor,1495,1211,1289,12,11,32,0
+,,Living Donor,116,116,0,0,0,0,0
+,Puerto Rico,All Donor Types,241,155,202,0,0,2,0
+,,Deceased Donor,233,147,202,0,0,2,0
+,,Living Donor,8,8,0,0,0,0,0
+,Rhode Island,All Donor Types,44,38,27,0,0,1,0
+,,Deceased Donor,35,29,27,0,0,1,0
+,,Living Donor,9,9,0,0,0,0,0
+,South Carolina,All Donor Types,294,244,244,3,1,10,0
+,,Deceased Donor,264,214,244,3,1,10,0
+,,Living Donor,30,30,0,0,0,0,0
+,South Dakota,All Donor Types,55,49,42,1,3,3,1
+,,Deceased Donor,43,37,42,1,3,3,1
+,,Living Donor,12,12,0,0,0,0,0
+,State unassigned,All Donor Types,261,227,147,2,1,6,0
+,,Deceased Donor,195,162,147,2,1,5,0
+,,Living Donor,66,65,0,0,0,1,0
+,Tennessee,All Donor Types,368,304,298,3,1,2,0
+,,Deceased Donor,333,269,298,3,1,2,0
+,,Living Donor,35,35,0,0,0,0,0
+,Texas,All Donor Types,1181,739,880,7,2,16,0
+,,Deceased Donor,1017,577,878,7,2,16,0
+,,Living Donor,164,162,2,0,0,0,0
+,Utah,All Donor Types,65,55,48,1,0,0,0
+,,Deceased Donor,49,39,48,1,0,0,0
+,,Living Donor,16,16,0,0,0,0,0
+,Vermont,All Donor Types,42,38,34,0,0,0,0
+,,Deceased Donor,38,34,34,0,0,0,0
+,,Living Donor,4,4,0,0,0,0,0
+,Virginia,All Donor Types,479,417,335,4,1,11,1
+,,Deceased Donor,393,332,334,4,1,11,1
+,,Living Donor,86,85,1,0,0,0,0
+,Washington,All Donor Types,220,199,120,0,1,3,0
+,,Deceased Donor,148,127,120,0,1,3,0
+,,Living Donor,72,72,0,0,0,0,0
+,West Virginia,All Donor Types,151,122,120,0,1,3,0
+,,,,,,,,,
+,,Deceased Donor,133,105,119,0,1,3,0
+,,Living Donor,18,17,1,0,0,0,0
+,Wisconsin,All Donor Types,457,385,300,6,2,9,0
+,,Deceased Donor,369,297,300,6,2,9,0
+,,Living Donor,88,88,0,0,0,0,0
+,Wyoming,All Donor Types,23,21,17,1,1,0,0
+,,Deceased Donor,18,16,17,1,1,0,0
+,,Living Donor,5,5,0,0,0,0,0
+Unknown,All Donor States of Residence,All Donor Types,25,11,14,1,0,0,0
+,,Deceased Donor,2,0,2,1,0,0,0
+,,Living Donor,23,11,12,0,0,0,0
+,Alabama,All Donor Types,1,0,1,0,0,0,0
+,,Living Donor,1,0,1,0,0,0,0
+,California,All Donor Types,1,0,1,0,0,0,0
+,,Living Donor,1,0,1,0,0,0,0
+,Maryland,All Donor Types,1,0,1,0,0,0,0
+,,Living Donor,1,0,1,0,0,0,0
+,Missouri,All Donor Types,1,0,1,0,0,0,0
+,,Living Donor,1,0,1,0,0,0,0
+,New York,All Donor Types,2,0,2,0,0,0,0
+,,Living Donor,2,0,2,0,0,0,0
+,North Carolina,All Donor Types,1,0,1,0,0,0,0
+,,Deceased Donor,1,0,1,0,0,0,0
+,State unassigned,All Donor Types,12,9,3,1,0,0,0
+,,Deceased Donor,1,0,1,1,0,0,0
+,,Living Donor,11,9,2,0,0,0,0
+,Texas,All Donor Types,2,2,0,0,0,0,0
+,,Living Donor,2,2,0,0,0,0,0
+,Virginia,All Donor Types,4,0,4,0,0,0,0
+,,Living Donor,4,0,4,0,0,0,0
